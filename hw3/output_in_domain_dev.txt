@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	NN
+revisited	VBN
 .	.
 ''	''
 
@@ -1518,8 +1518,8 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	NN
-out	RB
+straightening	JJ
+out	NN
 ;	:
 we	PRP
 're	VBP
@@ -3767,7 +3767,7 @@ to	IN
 the	DT
 poor	JJ
 ,	,
-maligned	JJ
+maligned	VBN
 analysts	NNS
 whose	WP$
 ability	NN
@@ -4768,7 +4768,7 @@ Street	NNP
 nearby	RB
 .	.
 
-Conversation	NN
+Conversation	NNP
 was	VBD
 subdued	VBN
 as	IN
@@ -5161,9 +5161,9 @@ Nitze	NNP
 's	POS
 statement	NN
 (	(
-Notable	JJ
+Notable	NNP
 &	CC
-Quotable	JJ
+Quotable	NNP
 ,	,
 Sept.	NNP
 20	CD
@@ -7312,7 +7312,7 @@ price	NN
 unless	IN
 the	DT
 market	NN
-recovers	NNS
+recovers	VBZ
 quickly	RB
 .	.
 
@@ -9043,7 +9043,7 @@ a	DT
 manner	NN
 as	RB
 is	VBZ
-warranted	VBN
+warranted	JJ
 .	.
 ''	''
 
@@ -9507,7 +9507,7 @@ of	IN
 Pacific	NNP
 salmon	NN
 and	CC
-herring	NN
+herring	VBG
 violate	VB
 the	DT
 accord	NN
@@ -12351,7 +12351,7 @@ team	NN
 The	DT
 players	NNS
 were	VBD
-heckled	VBN
+heckled	JJ
 by	IN
 a	DT
 patron	NN
@@ -12669,8 +12669,8 @@ subsidized	JJ
 housing	NN
 .	.
 
-TREATING	NN
-EMPLOYEES	NNS
+TREATING	NNP
+EMPLOYEES	NNP
 with	IN
 respect	NN
 is	VBZ
@@ -12797,7 +12797,7 @@ $	$
 55,000	CD
 .	.
 
-CURBING	NNP
+CURBING	VBG
 WAGE	NN
 BOOSTS	NNS
 will	MD
@@ -12934,7 +12934,7 @@ time	NN
 HOME	NNP
 -	HYPH
 SALE	NNP
-LOSSES	NNP
+LOSSES	NNS
 rise	NN
 ,	,
 but	CC
@@ -13503,7 +13503,7 @@ Loss	NN
 of	IN
 Customers	NNS
 
-FAST	NN
+FAST	JJ
 -	HYPH
 FOOD	NN
 chicken	NN
@@ -13985,7 +13985,7 @@ messages	NNS
 resemble	VBP
 the	DT
 Business	NNP
-Traveler	NNP
+Traveler	NN
 ,	,
 a	DT
 daily	JJ
@@ -14040,7 +14040,7 @@ Evening	VBG
 Wear	VB
 for	IN
 Urban	NNP
-Structures	NNS
+Structures	NNP
 ''	''
 and	CC
 ``	``
@@ -14540,7 +14540,7 @@ commercials	NNS
 according	VBG
 to	IN
 Video	NNP
-Storyboard	NNP
+Storyboard	NN
 Tests	NNS
 ,	,
 New	NNP
@@ -16311,7 +16311,7 @@ deal	NN
 ''	''
 stocks	NNS
 are	VBP
-jeopardized	VBN
+jeopardized	JJ
 by	IN
 the	DT
 unexpected	JJ
@@ -19342,7 +19342,7 @@ Attorney	NNP
 General	NNP
 John	NNP
 Van	NNP
-de	FW
+de	NNP
 Kamp	NNP
 .	.
 
@@ -21042,7 +21042,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	VB
+Pull	JJ
 your	PRP$
 offers	NNS
 ''	''
@@ -21241,7 +21241,7 @@ ago	RB
 ''	''
 --	:
 ``	``
-Terrible	JJ
+Terrible	NNP
 Tuesday	NNP
 ,	,
 ''	''
@@ -22220,7 +22220,7 @@ Jeremy	NNP
 Rifkin	NNP
 and	CC
 the	DT
-Christic	JJ
+Christic	NNP
 Institute	NNP
 in	IN
 the	DT
@@ -23523,7 +23523,7 @@ said	VBD
 it	PRP
 controls	VBZ
 2,720,675	CD
-Aristech	NN
+Aristech	NNP
 common	JJ
 shares	NNS
 ,	,
@@ -27057,7 +27057,7 @@ currency	NN
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 ``	``
 there	EX
@@ -27130,7 +27130,7 @@ times	NNS
 Closely	RB
 held	VBN
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 offered	VBD
 the	DT
 $	$
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	NN
+resurging	JJ
 market	NN
 ,	,
 reviving	VBG
@@ -28181,8 +28181,8 @@ says	VBZ
 Donald	NNP
 Franz	NNP
 of	IN
-Photofinishing	NN
-Newsletter	NN
+Photofinishing	NNP
+Newsletter	NNP
 .	.
 
 Also	RB
@@ -28544,7 +28544,7 @@ the	DT
 campaign	NN
 ,	,
 says	VBZ
-Gap	NN
+Gap	NNP
 did	VBD
 n't	RB
 intentionally	RB
@@ -28600,7 +28600,7 @@ The	DT
 campaign	NN
 won	VBD
 a	DT
-Cleo	JJ
+Cleo	NNP
 award	NN
 as	IN
 this	DT
@@ -32616,7 +32616,7 @@ under	IN
 the	DT
 trade	NN
 name	NN
-ACCO	NN
+ACCO	NNP
 and	CC
 supplies	VBZ
 the	DT
@@ -33211,8 +33211,8 @@ include	VB
 businesses	NNS
 such	JJ
 as	IN
-McVities	NNS
-biscuits	NNS
+McVities	NNP
+biscuits	NNPS
 and	CC
 Terry	NNP
 's	POS
@@ -36775,7 +36775,7 @@ months	NNS
 
 Jack	NNP
 W.	NNP
-Forrest	NN
+Forrest	NNP
 ,	,
 Environmental	NNP
 Systems	NNPS
@@ -37404,7 +37404,7 @@ Los	NNP
 Angeles	NNP
 said	VBD
 the	DT
-PerkinElmer	JJ
+PerkinElmer	NNP
 unit	NN
 's	POS
 work	NN
@@ -39222,7 +39222,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	VB
+Pull	JJ
 your	PRP$
 offers	NNS
 ''	''
@@ -42581,7 +42581,7 @@ held	VBN
 company	NN
 ,	,
 was	VBD
-stagnating	NN
+stagnating	VBG
 under	IN
 the	DT
 management	NN
