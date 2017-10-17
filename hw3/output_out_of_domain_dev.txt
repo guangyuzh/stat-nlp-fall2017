@@ -1853,7 +1853,7 @@ alone	RB
 
 -	HYPH
 acd	NN
-]	.
+]	NN
 
 He	PRP
 earned	VBD
@@ -4296,7 +4296,7 @@ it	PRP
 as	RB
 "	IN
 the	DT
-undeclared	NNP
+undeclared	JJ
 World	NNP
 War	NNP
 III	NNP
@@ -7275,7 +7275,7 @@ well	RB
 known	VBN
 address	NN
 in	IN
-Teheran	NNP
+Teheran	NN
 ,	,
 hosted	VBD
 by	IN
@@ -11660,7 +11660,7 @@ States	NNPS
 still	RB
 supports	VBZ
 the	DT
-Kashmir	NN
+Kashmir	NNP
 groups	NNS
 that	WDT
 back	RB

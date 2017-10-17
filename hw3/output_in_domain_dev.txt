@@ -6239,7 +6239,7 @@ working	VBG
 at	IN
 its	PRP$
 giant	JJ
-Renton	NN
+Renton	NNP
 ,	,
 Wash.	NNP
 ,	,
@@ -21042,7 +21042,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	JJ
+Pull	VB
 your	PRP$
 offers	NNS
 ''	''
@@ -37069,7 +37069,7 @@ the	DT
 merger	NN
 agreement	NN
 with	IN
-Memotec	NNP
+Memotec	JJ
 if	IN
 a	DT
 better	JJR
@@ -39222,7 +39222,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	JJ
+Pull	VB
 your	PRP$
 offers	NNS
 ''	''

@@ -2353,7 +2353,7 @@ purpose	NN
 If	IN
 I	PRP
 was	VBD
-Rummy	NN
+Rummy	JJ
 I	PRP
 'd	MD
 send	VB
@@ -4214,10 +4214,10 @@ unto	IN
 the	DT
 earth	NN
 ,	,
-"	NNP
-Jeffs	NNP
+"	NN
+Jeffs	NNS
 has	VBZ
-said	VBD
+said	VBN
 as	RB
 cited	VBN
 by	IN
@@ -6098,8 +6098,8 @@ actions	NNS
 ,	,
 while	IN
 they	PRP
-"	MD
-do	VB
+"	RB
+do	VBP
 as	IN
 they	PRP
 wilt	VBD
@@ -6939,8 +6939,8 @@ actions	NNS
 ,	,
 while	IN
 they	PRP
-"	MD
-do	VB
+"	RB
+do	VBP
 as	IN
 they	PRP
 wilt	VBD
@@ -7260,7 +7260,7 @@ am	VBP
 therefore	RB
 I	PRP
 think	VBP
-"	IN
+"	RB
 :)	.
 
 Reporting	NNP
@@ -12096,7 +12096,7 @@ Friday	NNP
 prayer	NN
 sermon	NN
 in	IN
-Kufa	NNP
+Kufa	NN
 ,	,
 his	PRP$
 home	NN
@@ -14529,9 +14529,9 @@ reality	NN
 that	WDT
 was	VBD
 an	DT
-al	JJ
+al	NNP
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 operation	NN
 mainly	RB
 carried	VBD
@@ -16381,7 +16381,7 @@ Mr.	NNP
 MURPH	NNP
 ARCHIBALD	NNP
 (	(
-Nephew	NNP
+Nephew	NN
 of	IN
 Red	NNP
 Blount	NNP
@@ -17700,9 +17700,9 @@ there	EX
 are	VBP
 hundreds	NNS
 of	IN
-al	JJ
+al	NNP
 -	HYPH
-Qaeda	NN
+Qaeda	NNP
 members	NNS
 in	IN
 Iraq	NNP
@@ -18193,7 +18193,7 @@ of	IN
 whom	WP
 had	VBD
 supported	VBN
-Saddam	NN
+Saddam	NNP
 and	CC
 his	PRP$
 anti-Shiite	JJ
