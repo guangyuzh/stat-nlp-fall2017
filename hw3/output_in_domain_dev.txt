@@ -451,7 +451,7 @@ other	JJ
 debt	NN
 ,	,
 and	CC
-subtracting	NN
+subtracting	VBG
 from	IN
 it	PRP
 the	DT
@@ -2729,7 +2729,7 @@ latter	NN
 although	IN
 it	PRP
 probably	RB
-springs	NNS
+springs	VBZ
 from	IN
 the	DT
 fact	NN
@@ -2891,7 +2891,7 @@ second	JJ
 inning	NN
 ,	,
 and	CC
-homered	VBD
+homered	VBN
 for	IN
 his	PRP$
 team	NN
@@ -4390,7 +4390,7 @@ are	VBP
 getting	VBG
 pretty	RB
 well	RB
-pasted	VBN
+pasted	VBD
 this	DT
 morning	NN
 ,	,
@@ -5161,9 +5161,9 @@ Nitze	NNP
 's	POS
 statement	NN
 (	(
-Notable	NN
+Notable	JJ
 &	CC
-Quotable	NN
+Quotable	JJ
 ,	,
 Sept.	NNP
 20	CD
@@ -9890,7 +9890,7 @@ May	NNP
 Richstone	NNP
 .	.
 
-Telecussed	JJ
+Telecussed	VBN
 
 The	DT
 guy	NN
@@ -12376,7 +12376,7 @@ that	IN
 year	NN
 ,	,
 ``	``
-Bluefield	NN
+Bluefield	NNP
 was	VBD
 not	RB
 having	VBG
@@ -12478,7 +12478,7 @@ the	DT
 Orioles	NNP
 innocent	JJ
 of	IN
-negligent	NN
+negligent	JJ
 hiring	NN
 ,	,
 and	CC
@@ -12588,7 +12588,7 @@ new	JJ
 doctor	NN
 's	POS
 ``	``
-bedside	JJ
+bedside	NN
 ''	''
 extension	NN
 .	.
@@ -13007,7 +13007,7 @@ real	JJ
 -	HYPH
 estate	NN
 values	NNS
-depreciated	VBD
+depreciated	VBN
 ,	,
 the	DT
 council	NN
@@ -13496,7 +13496,7 @@ market	NN
 .	.
 
 Chicken	NNP
-Chains	VBZ
+Chains	NNS
 Ruffled	VBN
 By	IN
 Loss	NN
@@ -14343,7 +14343,7 @@ the	DT
 label	NN
 for	IN
 the	DT
-powder	NN
+powder	NNP
 version	NN
 .	.
 
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNP
+Straits	NNS
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -18443,7 +18443,7 @@ Monday	NNP
 decline	NN
 ,	,
 the	DT
-Straits	NNP
+Straits	NNS
 Times	NNP
 index	NN
 is	VBZ
@@ -18607,7 +18607,7 @@ Australia	NNP
 Sydney	NNP
 's	VBZ
 All	DT
-Ordinaries	NN
+Ordinaries	NNS
 index	NN
 closed	VBD
 at	IN
@@ -19491,7 +19491,7 @@ should	MD
 be	VB
 called	VBN
 The	DT
-Big	JJ
+Big	NNP
 Greenback	NN
 .	.
 
@@ -20177,7 +20177,7 @@ anyone	NN
 left	VBD
 the	DT
 place	NN
-whistling	IN
+whistling	NN
 Dixie	NNP
 .	.
 ''	''
@@ -21241,7 +21241,7 @@ ago	RB
 ''	''
 --	:
 ``	``
-Terrible	NNP
+Terrible	JJ
 Tuesday	NNP
 ,	,
 ''	''
@@ -22220,7 +22220,7 @@ Jeremy	NNP
 Rifkin	NNP
 and	CC
 the	DT
-Christic	NNP
+Christic	JJ
 Institute	NNP
 in	IN
 the	DT
@@ -23465,7 +23465,7 @@ owned	VBN
 by	IN
 Jon	NNP
 M.	NNP
-Huntsman	NN
+Huntsman	NNP
 and	CC
 other	JJ
 members	NNS
@@ -23517,7 +23517,7 @@ Exchange	NNP
 Commission	NNP
 ,	,
 the	DT
-Huntsman	NN
+Huntsman	NNP
 group	NN
 said	VBD
 it	PRP
@@ -29267,7 +29267,7 @@ Alfred	NNP
 DeBat	NNP
 of	IN
 Professional	NNP
-Photographers	NNP
+Photographers	NNS
 of	IN
 America	NNP
 .	.
@@ -31382,7 +31382,7 @@ approval	NN
 but	CC
 been	VBN
 ruled	VBN
-anticompetitive	NN
+anticompetitive	JJ
 in	IN
 a	DT
 private	JJ
@@ -32441,7 +32441,7 @@ a	DT
 %	NN
 stake	NN
 in	IN
-Alliant	NN
+Alliant	NNP
 ,	,
 a	DT
 maker	NN
@@ -32453,7 +32453,7 @@ and	CC
 engineers	NNS
 .	.
 
-Alliant	NN
+Alliant	NNP
 ,	,
 based	VBN
 in	IN
@@ -32546,7 +32546,7 @@ division	NN
 from	IN
 closely	RB
 held	VBN
-Sterile	NNP
+Sterile	JJ
 Products	NNPS
 Corp.	NNP
 for	IN
@@ -36775,7 +36775,7 @@ months	NNS
 
 Jack	NNP
 W.	NNP
-Forrest	NNP
+Forrest	NN
 ,	,
 Environmental	NNP
 Systems	NNPS
@@ -37422,7 +37422,7 @@ group	NN
 ,	,
 which	WDT
 makes	VBZ
-infrared	VBN
+infrared	JJ
 sensors	NNS
 ,	,
 military	JJ
@@ -39578,7 +39578,7 @@ about	RB
 minutes	NNS
 and	CC
 then	RB
-steamed	VBN
+steamed	VBD
 forward	RP
 as	IN
 institutions	NNS

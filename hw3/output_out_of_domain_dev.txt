@@ -1220,7 +1220,7 @@ known	VBN
 ,	,
 little	JJ
 -	HYPH
-invoked	NN
+invoked	VBN
 regulation	NN
 that	WDT
 allowed	VBD
@@ -2695,8 +2695,8 @@ citizen	NN
 Why	WRB
 ?	.
 
-To	IN
-pander	NN
+To	TO
+pander	VB
 to	IN
 the	DT
 mythical	JJ
@@ -4034,7 +4034,7 @@ networks	NNS
 ,	,
 fanaticism	NN
 ,	,
-incitement	NNP
+incitement	NN
 ,	,
 suicide	NN
 murders	NNS
@@ -4507,7 +4507,7 @@ cruel	JJ
 death	NN
 with	IN
 bodies	NNS
-dismembered	VBN
+dismembered	JJ
 and	CC
 horrible	JJ
 severe	JJ
@@ -4799,7 +4799,7 @@ reduce	VB
 your	PRP$
 vulnerability	NN
 by	IN
-preventive	JJ
+preventive	NN
 and	CC
 defensive	JJ
 measures	NNS
@@ -4949,7 +4949,7 @@ benefits	NNS
 of	IN
 going	VBG
 to	IN
-Heaven	NNP
+Heaven	NN
 ?	.
 
 Instead	RB
@@ -6079,7 +6079,7 @@ act	NN
 but	CC
 visit	VB
 her	PRP$
-bereaved	JJ
+bereaved	VBN
 family	NN
 and	CC
 the	DT
@@ -6134,8 +6134,8 @@ operation	NN
 is	VBZ
 called	VBN
 the	DT
-"	JJ
-spiritual	JJ
+"	NN
+spiritual	NN
 leader	NN
 "	NN
 .	.
@@ -6618,8 +6618,8 @@ outer	JJ
 circle	NN
 .	.
 
-Figuratively	JJ
-speaking	NN
+Figuratively	RB
+speaking	VBG
 ,	,
 this	DT
 outer	JJ
@@ -7275,7 +7275,7 @@ well	RB
 known	VBN
 address	NN
 in	IN
-Teheran	NN
+Teheran	NNP
 ,	,
 hosted	VBD
 by	IN
@@ -8157,9 +8157,9 @@ American	JJ
 plan	NN
 was	VBD
 actually	RB
-to	TO
-encircle	VB
-both	DT
+to	IN
+encircle	NNP
+both	CC
 Iran	NNP
 and	CC
 Syria	NNP
@@ -11976,7 +11976,7 @@ flashpoints	NNS
 are	VBP
 the	DT
 Taiwan	NNP
-Straits	NNP
+Straits	NNS
 and	CC
 North	NNP
 Korea	NNP
@@ -14957,7 +14957,7 @@ rifles	NNS
 M	NNP
 -	HYPH
 79	CD
-grenade	NN
+grenade	NNP
 launchers	NNS
 and	CC
 more	JJR
@@ -15381,8 +15381,8 @@ Indonesia	NNP
 .	.
 
 The	DT
-Ten	NNP
-Degree	NNP
+Ten	CD
+Degree	NN
 Channel	NNP
 divides	VBZ
 the	DT
@@ -15932,7 +15932,7 @@ wave	NN
 "	NNP
 had	VBD
 been	VBN
-casing	IN
+casing	VBG
 New	NNP
 York	NNP
 City	NNP
@@ -16013,10 +16013,10 @@ news	NN
 It	PRP
 's	VBZ
 just	RB
-no	DT
-longer	RBR
-bureaucratically	JJ
-impolite	NN
+no	RB
+longer	RB
+bureaucratically	RB
+impolite	JJ
 to	IN
 openly	RB
 contest	NN
@@ -16339,7 +16339,7 @@ a	DT
 risk	NN
 that	IN
 observers	NNS
-underestimate	IN
+underestimate	VBP
 the	DT
 time	NN
 that	IN
@@ -17982,7 +17982,7 @@ reported	VBD
 finding	VBG
 at	IN
 Dugway	NNP
-undermines	NNP
+undermines	VBZ
 the	DT
 argument	NN
 of	IN
@@ -18363,7 +18363,7 @@ to	IN
 Malaysia	NNP
 .	.
 
-Newsweek	NN
+Newsweek	NNP
 reported	VBD
 that	IN
 a	DT
@@ -19558,8 +19558,8 @@ extradition	NN
 of	IN
 WTC	NNP
 1993	CD
-plotter	NN
-Ramzi	NN
+plotter	NNP
+Ramzi	NNP
 Yousef	NN
 from	IN
 Pakistan	NNP
@@ -20095,7 +20095,7 @@ Sun	NNP
 News	NNP
 assistant	NN
 Bobby	NNP
-Bender	NNP
+Bender	NN
 recalls	VBZ
 the	DT
 letter	NN
@@ -22044,10 +22044,10 @@ as	IN
 the	DT
 predators	NNS
 of	IN
-Hamas	NNP
+Hamas	NN
 and	CC
-Hezbollah	NNP
-exploit	VBP
+Hezbollah	NN
+exploit	VB
 the	DT
 inherent	JJ
 weakness	NN
@@ -22818,7 +22818,7 @@ and	CC
 I	PRP
 have	VBP
 already	RB
-overheard	VBN
+overheard	JJ
 youngsters	NNS
 in	IN
 my	PRP$
@@ -23338,7 +23338,7 @@ would	MD
 be	VB
 dragged	VBN
 ,	,
-defiled	VBD
+defiled	VBN
 ,	,
 and	CC
 stepped	VBD
@@ -23715,7 +23715,7 @@ have	VBP
 been	VBN
 engaging	VBG
 in	IN
-shrill	NNP
+shrill	NN
 public	JJ
 attacks	NNS
 over	IN
@@ -24487,7 +24487,7 @@ this	DT
 so	RB
 not	RB
 even	RB
-Sistani	NNP
+Sistani	JJ
 is	VBZ
 going	VBG
 to	TO
@@ -25012,7 +25012,7 @@ it	PRP
 that	IN
 blessed	VBN
 ,	,
-laudatory	NN
+laudatory	JJ
 lack	NN
 of	IN
 clutter	NN
